@@ -1,0 +1,3 @@
+Here are some ways to spot a s***mock.
+
+1. Look for mocks made by known s***mock makers. Frequent s***mock makers are a dead give-away.
